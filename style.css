@@ -12,4 +12,11 @@ canvas {
     height: 100%;
     z-index: -1;
 }
+@font-face {
+font-family: myFont;
+    src: url("HarringtonPlain001001-vv54.ttf");
 
+}
+h1 {
+font-family: myFont;
+}
